@@ -1,2 +1,2 @@
-READ MAKE FILE
-ALWAYS CLEAN BEFORE PUSHING
+- Read MAKE file 
+- Always run |make clean| before pushing
